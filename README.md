@@ -1,4 +1,4 @@
-# glitter
+# glitter 
 A leightweight (5kb) and cute CLI to manage git-users painless. Switch between multiple Git users to manage your projects. Simply grab the source code from the current release branch, install golang and fire up an administrative shell. Type this commands to install the project via the golang package manager
 
 ```shell
