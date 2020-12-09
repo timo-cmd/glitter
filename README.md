@@ -30,6 +30,12 @@ Flags:
 └───REAMDE
 ```
 
+#### Screenshots:
+
+<div align="center">
+  <img src="https://github.com/timo-cmd/glitter/blob/main/assets/m.png?raw=true"></img>
+</div>
+
 #### License:
 
 ```
