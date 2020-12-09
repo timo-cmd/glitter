@@ -117,7 +117,7 @@ func selectUser() error {
 
 func addUser() error {
 	name := promptui.Prompt{
-		Label: "Pleae input the Git user name",
+		Label: "Please input the Git user name",
 	}
 	resultName, err := name.Run()
 	if err != nil {
